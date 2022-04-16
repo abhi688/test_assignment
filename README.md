@@ -1,2 +1,2 @@
 # test_assignment
-interview assignment
+Run test-assign.py file from terminal
